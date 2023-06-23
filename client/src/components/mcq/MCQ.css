@@ -1,0 +1,18 @@
+.form-no-question{
+    
+width:25%
+}
+.form-options{
+    display: flex;
+    gap:10px;
+}
+.each-option{
+    flex-basis: 20%;
+}
+.options-label{
+    display: flex;
+    gap: 10px;
+}
+.options-label-item{
+    flex-basis: 20%;
+}

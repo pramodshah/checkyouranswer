@@ -1,0 +1,9 @@
+.exam-list{
+    margin-top:50px;
+    display: flex;
+    gap: 20px;
+}
+.each-exam{
+    text-align: center;
+    flex-basis: 20%;
+}
